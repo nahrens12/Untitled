@@ -1,0 +1,14 @@
+org/example/entity/Kenneling.class
+org/example/Main.class
+org/example/entity/Gender.class
+org/example/repository/DogRepository.class
+org/example/mapper/DogMapperFallbackConfig.class
+org/example/mapper/DogMapperFallbackConfig$1.class
+org/example/entity/Suppliers.class
+org/example/mapper/DogMapper.class
+org/example/controller/DogController.class
+org/example/service/DogService.class
+org/example/entity/Dog.class
+org/example/entity/LeavingReason.class
+org/example/dto/DogDto.class
+org/example/entity/Status.class
